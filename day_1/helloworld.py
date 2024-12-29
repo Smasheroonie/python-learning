@@ -42,4 +42,6 @@ my_dict = {'greeting': 'Hello world', 'numbers': 123}
 
 # Euclidian distance function
 
+print(((10-2)**2 + (8-3)**2)**0.5)
+
 print(math.sqrt(abs(2-10)**2 + abs(3-8)**2))
